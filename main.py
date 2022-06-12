@@ -5,7 +5,7 @@
 
 
 def find_anagram(word, anagram):
-    # [assignment] Add your code here
+    
     if len(word) != len(anagram):
         return False
 
